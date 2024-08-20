@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nathalia-berri
 - 👀 I’m interested in learning almost anything 
-- 🌱 I’m currently learning how to develop on JavaScript, HTML and CSS, but had previous studies on C and Cpp
+- 🌱 I’m currently learning how to develop on Java, but had previous studies on JavaScript, HTML and CSS, C and Cpp.
 - 💞️ I’m looking forward to collaborate on my own development... And do uni work.
 - 📫 How to reach me -> e-mail: nathalia.berri@outlook.com
 
